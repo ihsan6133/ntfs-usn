@@ -4,6 +4,8 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "A library to manage Update Sequence Number (USN) Journals in Windows."
+repository = "https://github.com/ihsan6133/ntfs-usn"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
